@@ -1,6 +1,6 @@
-# mall_web
+# vue-ts-element-starter
 
-## Project setup
+## Vue2 + TypeScript + ElementUI
 ```
 yarn install
 ```
